@@ -1,0 +1,45 @@
+{
+  "featuredContent": [
+    {
+      "image": "https://www.ridingboards.com/wp-content/uploads/2018/12/8560355808_9c3e245876_h.jpg"
+    },
+    {
+      "image": "https://unaccomplishedangler.com/wordpress/wp-content/uploads/2015/02/OldManLongboarding.jpg",
+      "description": {
+        "value": "Boarding is fun at all ages! Check out [[T0]]Victor Earheart's run[[/T0]]",
+        "modifiers": [
+          {
+            "tag": "T0",
+            "type": "LINK",
+            "data": "https://www.youtube.com/watch?v=ijLqo7hETPk"
+          }
+        ]
+      }
+    },
+    {
+      "image": "https://www.daddiesboardshop.com/blog/wp-content/uploads/2014/03/longboard-safety.jpg",
+      "description": {
+        "value": "Please remember, safety first!"
+      }
+    }
+  ],
+  "featuredEvent": {
+    "title": "Brown Country race",
+    "image": "https://visitindiana.com/adportal/Content/FileUploads/48453/76d42e69-c766-49cb-bfd2-edf87b0e21e5.jpg",
+    "description": {
+      "value": "Join us on October 20, 2020 at [[T0]]Brown County State Park[[/T0]] for our fifteenth annual Longboardathon. Visit [[T1]]loadedboards.com/pages/longboarding-event-calendar[[/T1]] for more details",
+      "modifiers": [
+        {
+          "tag": "T0",
+          "type": "INTERNAL_REDIRECT",
+          "data": "todo"
+        },
+        {
+          "tag": "T1",
+          "type": "LINK",
+          "data": "https://loadedboards.com/pages/longboarding-event-calendar"
+        }
+      ]
+    }
+  }
+}
